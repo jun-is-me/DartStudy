@@ -1,3 +1,3 @@
 void main(){
-  print('Hello Code Factory');
+  var name = '코드팩토리';
 }

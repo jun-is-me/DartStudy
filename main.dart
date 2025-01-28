@@ -57,6 +57,7 @@ void main(){
   var number = 20;
 
   print(name3.runtimeType); //runtumeType을 통해서 var의 현재 타입 알기 가능
+  print(number.runtimeType); //runtumeType을 통해서 var의 현재 타입 알기 가능
 
   //Map<String, Map<int, List<double>>> testType = {};  //이런 타입 선언은 복잡하니
   //var testType2 = {}; //대체할 때, var을 씀

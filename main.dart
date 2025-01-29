@@ -87,4 +87,16 @@ void main(){
 
   //nullable - null이 될 수 있다.
   //non-nullable - null이 될 수 없다.
+
+  String? a = '코드팩토리';
+
+  a = null;
+
+  print(a);
+
+  String b = '블랙핑크';
+
+  print(b!);
+
+
 }
